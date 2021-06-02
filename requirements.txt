@@ -47,7 +47,7 @@ sudo==1.0.0
 tldextract==2.2.2
 toml==0.10.1
 tqdm==4.47.0
-urllib3==1.25.9
+urllib3==1.26.5
 webencodings==0.5.1
 websockets==8.1
 wrapt==1.12.1
